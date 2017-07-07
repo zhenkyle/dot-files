@@ -3,4 +3,4 @@ brew "hub"
 cask "dropbox"
 cask "google-chrome"
 cask "sublime-text"
-mas "Xcode", id: 497799835
+mas "Microsoft Remote Desktop", id: 715768417
